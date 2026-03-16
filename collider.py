@@ -9,9 +9,9 @@ t.width(2)
 t.speed(0)
 
 col = ('black','black','black')
-h=random.randint(1,999)
+h=random.randint(1,360)
 n=random.randint(1,8)
-u=random.randint(1,999)
+u=random.randint(1,360)
 t.penup()
 t.hideturtle()
 
